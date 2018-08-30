@@ -2,17 +2,20 @@
 ## This is a hedgehog
 #### apparently also known as a hedgepig
 ![alt text] (file:///Users/laurenleslie/Desktop/sonic.html)
-[learn more about hedgehogs here] (https://en.wikipedia.org/wiki/Hedgehog)
+
+[learn more about hedgehogs here](https://en.wikipedia.org/wiki/Hedgehog)
+
 '''
 System.out.println("This is how you talk about hedgehogs in Java);
 '''
+
 > You're not scaring anyone Roland. Get a tattoo.
 
 John Oliver to Roland the hedgehog
 
-*hedgehogs are small
-*hedgehogs are related to shrews
-*some hedgehog species go really fast
+* hedgehogs are small
+* hedgehogs are related to shrews
+* some hedgehog species go really fast
 
 1. They eat snails
 2. Also melons
