@@ -6,7 +6,7 @@
 [learn more about hedgehogs here](https://en.wikipedia.org/wiki/Hedgehog)
 
 ```
-System.out.println("This is how you talk about hedgehogs in Java);
+System.out.println("This is how you talk about hedgehogs in Java");
 ```
 
 > You're not scaring anyone Roland. Get a tattoo.
