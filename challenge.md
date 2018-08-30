@@ -28,7 +28,7 @@ Sonic| 16bits | sorta cute
 
 ~~saying they're not is just plain false~~
 
-[To the readme file ](https://github.com/laurencleslie/README.md)
+[To the readme file ](https://github.com/laurencleslie/challenge/blob/master/README.md)
 
 ---------
 
