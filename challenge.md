@@ -28,6 +28,7 @@ European| 6.3in | pretty cute
 Sonic| 16bits | sorta cute
 
 **consensus: hedgehogs are pretty rad**
+
 *it's true*
 
 ~~saying they're not is just plain false~~
